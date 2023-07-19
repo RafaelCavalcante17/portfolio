@@ -7,7 +7,7 @@ is a project to begin the studies on HTML, CSS and JS. With the main goal of cre
 
 ## live link:
 
-https://rafaelcavalcante17.github.io/site-portifolio/
+https://rafaelcavalcante17.github.io/portfolio/
 
 
 ## Main concepts applied
