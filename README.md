@@ -20,7 +20,7 @@ https://rafaelcavalcante17.github.io/portfolio/
 ## Instructions to run:
 1. Clone the project:
 ```
- git clone https://github.com/RafaelCavalcante17/site-portifolio.git
+ git clone  https://rafaelcavalcante17.github.io/portfolio/
 ```
 
 2. After clone open the folder:
