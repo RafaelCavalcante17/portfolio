@@ -3,7 +3,7 @@
 is a project to begin the studies on HTML, CSS and JS. With the main goal of creating a website with my main professional information.
 
 # Paulo Rafael
-<img src="https://github.com/RafaelCavalcante17/site-portifolio/blob/main/preview.png" height="500"/>
+<img src="image/preview.png" height="500"/>
 
 ## live link:
 
