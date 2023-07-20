@@ -152,7 +152,7 @@ justify-content: center;
 }
 
 .hero-info-image{
-  height: 594px;
+  height: 100%;
   width: 542px;
   border-radius: 40px;
   border-color: green;
